@@ -8,9 +8,9 @@ Projects:
 
 Some Langugages/Tools I use:
 
-<a href="https://www.python.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="30" height="30">
-<\a>
+<a href="https://github.com">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50">
+</a>
 
 
 <!--
