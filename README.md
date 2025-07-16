@@ -8,9 +8,9 @@ Projects:
 
 Some Langugages/Tools I use:
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="50" height="50">
-
+<a href="https://www.python.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="30" height="30">
+<\a>
 
 
 <!--
