@@ -12,7 +12,7 @@ Some Langugages/Tools I use:
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/150px-Python.svg.png" alt="Python Logo" width="50">
   </a>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrPZxw0F-hKbK5AT_Fo3gE8zqDk1_Ex_3vqg&s" alt="C Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/165px-C_Sharp_Logo_2023.svg.png" alt="C# Logo" width="50">
   <img src="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png" alt="JavaScript Logo" width="50">
