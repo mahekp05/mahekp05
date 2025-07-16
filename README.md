@@ -20,7 +20,7 @@ Some Langugages/Tools I use:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="50">
   <img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp" alt="CSS Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React Logo" width="50">
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*sceRW7gTtYxGx9CKK_b1Zw.png" alt="Flask Logo" width="50">
+  <img src="https://miro.medium.com/v2/resize:fit:1000/1*sceRW7gTtYxGx9CKK_b1Zw.png" alt="Flask Logo" width="70">
 </div>
 <!--
 **mahekp05/mahekp05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
