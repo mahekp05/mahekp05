@@ -17,8 +17,8 @@ Some Langugages/Tools I use:
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/165px-C_Sharp_Logo_2023.svg.png" alt="C# Logo" width="50">
   <img src="https://skillforge.com/wp-content/uploads/2020/10/javascript-266x300.png" alt="JavaScript Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" alt="PHP Logo" width="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="50">
-  <img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp" alt="CSS Logo" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="70">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" alt="React Logo" width="50">
   <img src="https://miro.medium.com/v2/resize:fit:1000/1*sceRW7gTtYxGx9CKK_b1Zw.png" alt="Flask Logo" width="70">
 </div>
