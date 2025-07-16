@@ -7,7 +7,7 @@ Projects:
 
 
 Some Langugages/Tools I use:
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" width="500" height="600">
 
 
 
