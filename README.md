@@ -1,13 +1,40 @@
 ## Hi there 👋
 
+<b>
 Hi! I'm Mahek Patel, a computer science student at the University of South Florida. I'm passionate about creating smart, useful tech and exploring the intersection of software, AI/ML, and data. At Embarc Collective, I help streamline operations and membership processes by designing and implementing automation workflows. As a research assistant, I’ve worked on EdTech projects like a podcast generator and a course-focused chatbot to support student learning. I’m also part of the Break Through Tech AI program for 2025–2026, where I’m applying machine learning in real-world settings. I lead workshops, mentor others, and advocate for women in tech through roles like ACM Tech Lead and President of Women in Tech and Entrepreneurship at USF. I love learning, collaborating, and finding creative ways to make technology more impactful and accessible.
+</b>
 
 
-Projects:
+<h3><i>Research Project</i></h3>
+<hr class="rounded">
+<div>
+  <a href='https://topsakal.com/usf/ai-course-companion/?COP2510'>
+    Course Personalized AI Course Companion
+  </a>
+  <li>Change "CDA3101" to change courses</li>
+  <li>Personalized for each course based on class materials, exams, and more!</li>
+  <li>Ask specific questions from lecture slides to get deeper understanding</li>
+  
+  <a href='https://topsakal.com/usf/ai-course-companion/admin/index.php?CAP4136'>
+    Course Companion Admin (aka Instructor) Dashboard
+  </a>
+  <li>Instructors can access materials directly from canvas and upload them to course companion for use</li>
+  <li>Instructors can find out most frequently asked questions and statistics about student areas of concern</li>
+  <li>Instructors can see inquiries about chatbot responses</li>
+
+  <a href=''>
+    AI Podcast Generator
+  </a>
+  <li>Students can generate podcasts from script to audio to learn content!</li>
+
+</div>
+<h3><i>Personal Projects<i><h3>
+<hr class="rounded">
 
 
-Some Langugages/Tools I use:
 
+<h3><i>Some Langugages/Tools I use</i></h3>
+<hr class = "rounded">
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/150px-Python.svg.png" alt="Python Logo" width="50">
