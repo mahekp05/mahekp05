@@ -1,23 +1,27 @@
 
-<h1 align="center">Mahek Patel</h1>
+# Mahek Patel
 
 <b>Driven by impact. Powered by curiosity.</b>
 
 I’m passionate about building smart, meaningful tech at the intersection of software engineering, AI/ML, and data. I thrive on solving real-world problems through thoughtful product development and scalable systems.
 
-🎓 Education
-B.S. in Computer Science, University of South Florida
+**🎓 Education**
 
-🧠 What I’m into
-Fullstack Development · Backend Systems · Product Thinking · Artificial Intelligence · Machine Learning · Data Science
-
-🚀 What I’m working on
-* Intern @ Embarc Collective — Automating internal workflows and optimizing membership operations to boost team efficiency and scale support for startups.
-* Research Assistant — Developed impactful EdTech tools, including a multi-speaker podcast generator and a course-aware chatbot to enhance student learning.
-* Break Through Tech AI Fellow (2025–2026) — Selected for a national program to apply machine learning to high-impact, real-world challenges.
+  B.S. in Computer Science, University of South Florida
 
 
-<em> 🛠️ My Toolkit </em>
+**🧠 What I’m into**
+
+  Fullstack Development · Backend Systems · Product Thinking · Artificial Intelligence · Machine Learning · Data Science
+
+
+**🚀 Currently**
+  * Research Assistant — Developed impactful EdTech tools, including a multi-speaker podcast generator and a course-aware chatbot to enhance student learning.
+  * Break Through Tech AI Fellow (2025–2026) — Selected for a national program to apply machine learning to high-impact, real-world challenges.
+
+
+
+**🛠️ My Toolkit**
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -47,38 +51,53 @@ Fullstack Development · Backend Systems · Product Thinking · Artificial Intel
 [![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)](https://zapier.com/)
 
 
+<hr style="border-radius: 5px; border: 1px solid lightgray;">
 
-## Featured Projects
-### 🚀 Machine Learning & AI Projects
+### Projects
+
+#### 🚀 Machine Learning & AI Projects
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [Reinforcement Learning Games](https://github.com/mahekp05/Reinforcement-Learning-Projects) | TensorFlow, OpenAI Gym | Deep Q-Learning agents trained to play Taxi and Super Mario Bros. |
 | [Sentiment Analysis](https://github.com/mahekp05/Sentiment-Analysis) | Scikit-learn, NLP | Twitter sentiment classifier using TF-IDF and logistic regression. |
 | [Voice Assistant](https://github.com/mahekp05/Voice-Assistant-) | Python, SpeechRecognition | Voice-based assistant to perform search and system automation tasks. |
 
-### 🌐 Web & Product Development Projects
+#### 🌐 Web & Product Development Projects
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [Plans4You](https://github.com/brandoncintron/plans4you) | React, Flask, GPT API | AI healthcare recommendation tool based on user preferences. |
 | [AI Course Companion](https://github.com/mahekp05/AI-Course-Companion) | PHP (Backend + Admin), JavaScript (Frontend), Google Cloud | Fullstack AI tool supporting students and instructors. Includes a student-facing chatbot UI for Q&A, and a secure instructor dashboard for uploading materials, generating FAQs, and viewing usage analytics. Built with custom PHP backend, dynamic JavaScript frontend, and Google Cloud Storage integration. |
 
 
-### 📚 EdTech & Research Projects
+#### 📚 EdTech & Research Projects
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | Podcast Generator *(Confidential)* | Gemini, TTS, Prompt Engineering | Multi-speaker podcast creator for educational use. *(private repo)* |
 
 
 
-## 📬 Connect with me
-<p align="center">
+
+
+<hr style="border-radius: 5px; border: 1px solid lightgray;">
+
+
+
+#### 📊 GitHub Stats
+
+![Mahek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahekp05&show_icons=true&theme=default&hide=issues&count_private=true)
+
+
+<hr style="border-radius: 5px; border: 1px solid lightgray;">
+
+#### 📬 Connect with me
+
+
   <a href="mailto:mahekapatel@outlook.com">
     <img src="https://img.shields.io/badge/Email-mahekapatel@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge">
   </a>
   <a href="https://www.linkedin.com/in/mahekpat3l/">
     <img src="https://img.shields.io/badge/LinkedIn-mahekpat3l-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-</p>
 
 
 <!--
