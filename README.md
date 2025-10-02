@@ -66,7 +66,7 @@ I’m passionate about building smart, meaningful tech at the intersection of so
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | [Plans4You](https://github.com/brandoncintron/plans4you) | React, Flask, GPT API | AI healthcare recommendation tool based on user preferences. |
-| [AI Course Companion](https://github.com/mahekp05/AI-Course-Companion) | PHP (Backend + Admin), JavaScript (Frontend), Google Cloud | Fullstack AI tool supporting students and instructors. Includes a student-facing chatbot UI for Q&A, and a secure instructor dashboard for uploading materials, generating FAQs, and viewing usage analytics. Built with custom PHP backend, dynamic JavaScript frontend, and Google Cloud Storage integration. |
+| [AI Course Companion](https://ai-course-companion.com/mahek-test/?COT4400S1&year=2025&semester=Fall&ID=478d0fb5-32a6-4204-b5a1-d1cf02158772) | PHP (Backend + Admin), JavaScript (Frontend), Google Cloud | Fullstack AI tool supporting students and instructors. Includes a student-facing chatbot UI for Q&A, and a secure instructor dashboard for uploading materials, generating FAQs, and viewing usage analytics. Built with custom PHP backend, dynamic JavaScript frontend, and Google Cloud Storage integration. |
 
 
 #### 📚 EdTech & Research Projects
