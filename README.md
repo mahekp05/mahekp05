@@ -86,7 +86,6 @@ I’m passionate about building smart, meaningful tech at the intersection of so
 
 ![Mahek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahekp05&show_icons=true&theme=default&hide=issues&count_private=true)
 
-
 <hr style="border-radius: 5px; border: 1px solid lightgray;">
 
 #### 📬 Connect with me
