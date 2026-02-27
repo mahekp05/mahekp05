@@ -84,7 +84,7 @@ I’m passionate about building smart, meaningful tech at the intersection of so
 
 #### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahekp05&show_icons=true&theme=github_dark&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahekp05&show_icons=true&theme=github_dark&count_private=true&cache_seconds=1800)
 
 <hr style="border-radius: 5px; border: 1px solid lightgray;">
 
