@@ -7,18 +7,28 @@ I’m passionate about building smart, meaningful tech at the intersection of so
 
 **🎓 Education**
 
-  B.S. in Computer Science, University of South Florida
+**M.S. Computer Science** (Expected Decemeber 2027)  
+University of Florida
+
+**B.S. Computer Science** (May 2026)  
+University of South Florida
 
 
-**🧠 What I’m into**
+## 🧠 What I'm Into
 
-  Fullstack Development · Backend Systems · Product Thinking · Artificial Intelligence · Machine Learning · Data Science
+Full-Stack Development · Backend Systems · AI Engineering · Computer Vision · Intelligent Applications · Product Development
 
 
-**🚀 Currently**
-  * Research Assistant — Developed impactful EdTech tools, including a multi-speaker podcast generator and a course-aware chatbot to enhance student learning.
-  * Break Through Tech AI Fellow (2025–2026) — Selected for a national program to apply machine learning to high-impact, real-world challenges.
+## 🚀 Currently Building
 
+### 🛍️ Fashion Search Engine
+Building an AI-powered fashion discovery platform that combines natural language search, recommendations, and full-stack search infrastructure.
+
+### 🤸 Handstand Coach
+Developing a computer vision system that analyzes handstand videos and provides feedback on alignment, balance, and technique using pose estimation.
+
+### 🌱 Learning & Exploring
+Deepening my skills in AI engineering, backend systems, and full-stack product development while pursuing an M.S. in Computer Science at the University of Florida.
 
 
 **🛠️ My Toolkit**
