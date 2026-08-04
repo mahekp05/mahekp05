@@ -7,7 +7,7 @@ I’m passionate about building smart, meaningful tech at the intersection of so
 
 **🎓 Education**
 
-**M.S. Computer Science** (Expected Decemeber 2027)  
+**M.S. Computer Science** (Expected May 2028)  
 University of Florida
 
 **B.S. Computer Science** (May 2026)  
